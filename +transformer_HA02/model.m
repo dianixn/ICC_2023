@@ -1,8 +1,5 @@
 function Z = model(x, parameters)
 
-% x - A (numFeatures*numHeads)-by-numInputSubwords
-% dims(dlX)
-
 w = parameters.Weights;
 hyperparameters = parameters.Hyperparameters;
 
