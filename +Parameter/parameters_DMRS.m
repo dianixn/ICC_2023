@@ -24,9 +24,6 @@ Max_Mobile_Speed = 50; % km/h
 
 SampleRate = Num_of_subcarriers * Frequency_Spacing;
 
-PathDelays = [0 30 200 300 500 1500 2500 5000 7000 9000] * 1e-9; % T
-AveragePathGains = [0.0 0 0 0.0 0.0 0.0 -1.0 -1.0 -2.0 -4.0]; % T
-
 MaxDopplerShift = floor((Carrier_Frequency * Max_Mobile_Speed) / (3e8 * 3.6));
 
-DelayProfile = 'CDL-C'; % 'Custom' 'CDL-A' 'CDL-B' 'CDL-C' 
+DelayProfile = 'CDL-A'; % 'Custom' 'CDL-A' 'CDL-B' 'CDL-C' 
