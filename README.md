@@ -14,6 +14,6 @@ The designed training and validation dataset for default pattern are provided in
 
 This may be the last code I upload as open-source contributor. A interview to Wireless Network Laboratory @ Huawei Wireless Product Line, shanghai made me feel very annoying, so no more code for generalization research. GL guys
 
-可能这是上传的最后一个代码了，因为无线产品线下属无线网络实验室的面试/聊天给我整挺恶心的，GL。和Noah和Hisilicon接触的更早，但是被恶心了一下lol。
+可能这是上传的最后一个代码了，因为无线产品线下属无线网络实验室的面试/聊天给我整挺恶心的，GL, 我是被恶心了一下lol。
 
 Please feel free to test and use this training dataset which could achieve robust generalization. 
