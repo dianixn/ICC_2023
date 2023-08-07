@@ -3,12 +3,12 @@ Code for "Achieving Robust Generalization for Wireless Channel Estimation Neural
 
 Cite as %%
 
-@article{luan2023achieving,
-  title={Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data},
-  author={Luan, Dianxin and Thompson, John},
-  journal={arXiv preprint arXiv:2302.02302},
-  year={2023}
-}
+    @article{luan2023achieving,
+    title={Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data},
+    author={Luan, Dianxin and Thompson, John},
+    journal={arXiv preprint arXiv:2302.02302},
+    year={2023}
+    }
 
 %%
 
