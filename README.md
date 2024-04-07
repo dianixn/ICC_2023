@@ -25,4 +25,4 @@ Cite as %%
 
 The designed training and validation dataset for default pattern are provided in https://datasync.ed.ac.uk/index.php/s/HZ1Xry9TUeDxK2P. Passcode: ICC2023
 
-Please feel free to test and use this training dataset which could achieve robust generalization. 
+Please feel free to test and use this training dataset which can achieve robust generalization. 
