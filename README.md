@@ -23,6 +23,6 @@ Cite as %%
 
 %%
 
-The designed training and validation dataset for default pattern are provided in https://drive.google.com/file/d/1l5uVTfmdz1kfLMG2TA8B3wblZNqMUlng/view?usp=sharing. It takes 1.93GB and I dont have enough space for the alternative pattern. 
+The designed training and validation dataset for default pattern are provided in https://datasync.ed.ac.uk/index.php/s/HZ1Xry9TUeDxK2P. Passcode: ICC2023
 
 Please feel free to test and use this training dataset which could achieve robust generalization. 
