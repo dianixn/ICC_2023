@@ -1,7 +1,5 @@
 PLEASE DO REALIZE THERE IS A IMPLEMENTATION DELAY OF 7 SAMPLES FOR BOTH MATLAB LTE AND CDL CHANNELS!! PLEASE READ THROUGH THE OFFICIAL MATLAB PAGES. 
 
-MATLAB 2022B
-
 # ICC_2023
 Code for "Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data" accepted by ICC 2023.
 
