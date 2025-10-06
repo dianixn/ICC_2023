@@ -3,7 +3,7 @@ PLEASE DO REALIZE THERE IS A IMPLEMENTATION DELAY OF 7 SAMPLES FOR BOTH MATLAB L
 # ICC_2023
 Code for "Achieving Robust Generalization for Wireless Channel Estimation Neural Networks by Designed Training Data" accepted by ICC 2023.
 
-jOURNAL VERSION: https://github.com/dianixn/Achieving-Robust-Channel-Estimation-Neural-Networks-by-Designed-Training-Data https://ieeexplore.ieee.org/abstract/document/11096086
+Journal version: https://github.com/dianixn/Achieving-Robust-Channel-Estimation-Neural-Networks-by-Designed-Training-Data https://ieeexplore.ieee.org/abstract/document/11096086
 
 Cite as
       
